@@ -2,9 +2,9 @@
 
 ## Features
 
-- Tested: very low risk of bricking and bootloops.
+- Tested: **Brick-free Guarantee!™**¹
 
-- Maintenance: actively maintained to ensure that users can get the latest emojis.
+- Maintenance: actively maintained to ensure that emoji updates can propagate through the rooted Android ecosystem as fast as possible.
 
 - Compatibility: this module will also replace the emojis of the following OEMs/carriers:
   - Samsung
@@ -15,8 +15,12 @@
 
   - Docomo
 
-  - More coming soon (please see [Contributing](CONTRIBUTING.md) for more info)
+  - More coming soon
 
 ## Installation
 
-This module **must not** be installed on devices running Android 12 or later. Font implementation has changed
+This module **must not** be installed on devices running Android 12 or later. Font implementation has changed, allowing Google *and* your OEM to update fonts without software updates. Installing this module on such systems is unnecessary will do more harm than good. See [here](https://source.android.com/devices/architecture/custom-font-fallback) for more info.
+
+Simply install this like any other module or flash the .ZIP on TWRP (it will still be systemlessly installed).
+
+¹Only applicable for ROMs that are close to AOSP.
