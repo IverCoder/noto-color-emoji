@@ -23,4 +23,27 @@ This module **must not** be installed on devices running Android 12 or later. Fo
 
 Simply install this like any other module or flash the .ZIP on TWRP (it will still be systemlessly installed).
 
-¹Only applicable for ROMs that are close to AOSP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*¹Only applicable for ROMs that are close to AOSP.*
