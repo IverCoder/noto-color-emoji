@@ -2,7 +2,7 @@
 
 ## Features
 
-- Tested: **Brick-free Guarantee!™**¹
+- Tested: **Brick-free Guarantee!™**
 
 - Maintenance: actively maintained to ensure that emoji updates can propagate through the rooted Android ecosystem as fast as possible.
 
@@ -22,28 +22,3 @@
 This module **must not** be installed on devices running Android 12 or later. Font implementation has changed, allowing Google *and* your OEM to update fonts without software updates. Installing this module on such systems is unnecessary will do more harm than good. See [here](https://source.android.com/devices/architecture/custom-font-fallback) for more info.
 
 Simply install this like any other module or flash the .ZIP on TWRP (it will still be systemlessly installed).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*¹Only applicable for ROMs that are close to AOSP.*
